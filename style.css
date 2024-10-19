@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+  text-indent: .25in;
+}
+
+ul {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+  
+}
+
+a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+  text-indent: .25in;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40pt;
+  color: #92191b;
+}
+
+body {
+   background-color: #8d8c87;
+  }
